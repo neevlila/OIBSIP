@@ -1,0 +1,14 @@
+# Nmap 7.95 scan initiated Tue Nov 24 08:34:21 2026 as: /usr/lib/nmap/nmap -O -oN nmap_os_scan.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000045s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE SERVICE
+8000/tcp open  http-alt
+Device type: general purpose
+Running: Linux 5.X|6.X
+OS CPE: cpe:/o:linux:linux_kernel:5 cpe:/o:linux:linux_kernel:6
+OS details: Linux 5.0 - 6.2
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Nov 24 08:34:23 2026 -- 1 IP address (1 host up) scanned in 1.39 seconds
