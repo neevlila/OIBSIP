@@ -48,6 +48,11 @@ Developers should use prepared statements, avoid directly inserting user input i
 - `sql_injection_notes.md` - Details of both tests and their results.
 - `screenshots/` - Screenshots showing the testing process.
 
+
+## Demo Video
+
+https://drive.google.com/file/d/1hiA6zqnqOmcHiT5yvL_60m7VIZ8_rpXW/view?usp=drive_link
+
 ## Disclaimer
 
 All testing was performed on my own local DVWA installation for educational purposes. No external websites or systems were tested.
